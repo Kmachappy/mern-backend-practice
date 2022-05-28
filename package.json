@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmachappy/mern-backend-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kmachappy/mern-backend-practice/issues"
+  },
+  "homepage": "https://github.com/Kmachappy/mern-backend-practice#readme",
+  "description": ""
+}
